@@ -84,8 +84,6 @@ Use the “Delete” button to remove a record (Delete).
 
 🔮 Future Enhancements
 
-Add MongoDB for persistent data storage
-
 Add user authentication (login/logout)
 
 Add flash messages for user feedback
@@ -110,10 +108,6 @@ Push to your fork: git push origin feature/feature-name
 
 Submit a pull request
 
-🧾 License
-
-This project is licensed under the MIT License
-.
 
 👤 Author
 
